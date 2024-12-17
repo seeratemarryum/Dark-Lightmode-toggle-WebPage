@@ -19,4 +19,4 @@ A simple webpage that allows users to toggle between dark and light mode themes.
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/Dark-Lightmode-Toggle-WebPage.git
+   git clone https://github.com/seeratemarryum/Dark-Lightmode-Toggle-WebPage.git
